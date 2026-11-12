@@ -1,0 +1,14 @@
+Construcción anterior reemplazada (9 objetos SPT).
+• Cámara principal: 'Camera'.
+• Granja ordenada: 22 filas × 14 unidades = 308 (reutilizadas 308, clonadas 0, eliminadas 0) · 163 × 138 m · huella de unidad 4.1 × 9.6 m.
+• Filas: 22.
+• Terreno: disco de 5200 m con mosaico de 4 m (material SPT_Pasto).
+• Cielo en degradado (SPT_Cielo) y niebla lineal 220–1100 m con el color del horizonte.
+• Renderers de celdas (P. Fotovoltaico, LOD0–LOD2): 5544.
+• Material de celdas: 'Panel solar' (compartido, _EMISSION activo en negro).
+• Unidades Panel_LOD: 308 · módulos por unidad: 6.
+• Inversores con indicador LED: 6.
+• Fuentes Barlow (Light/Regular/Medium/SemiBold/Bold) listas como TMP SDF.
+• EventSystem creado con InputSystemUIInputModule.
+• Logo de la Marista añadido al menú.
+• Capacidad estimada: 1016 kWp.
