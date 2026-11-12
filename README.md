@@ -47,6 +47,7 @@ Otros comandos del menú `Tools > Sol Para Todos`:
 ### Carpetas
 
 ```
+Documentacion/capturas/                Capturas de la app (se usan en este README)
 Assets/
 ├─ Editor/
 │   └─ SolParaTodosSceneBuilder.cs     Constructor de la escena y la interfaz (menú Tools)
@@ -144,16 +145,29 @@ SampleScene
 
 ## 5. Capturas
 
-Guarda tus capturas en `Documentacion/capturas/` y enlázalas aquí:
+**Menú de inicio**
 
-| Vista | Archivo sugerido |
-| --- | --- |
-| Menú de inicio | `01_menu.png` |
-| Vista 1, panorámica de día | `02_dia_panoramica.png` |
-| Vista 2, detalle de un panel | `03_detalle_panel.png` |
-| Vista 3, recorrido entre filas | `04_recorrido.png` |
-| Modo Crepúsculo | `05_noche.png` |
-| «Más detalles» desplegado | `06_telemetria.png` |
+![Menú de inicio](Documentacion/capturas/01_menu.png)
+
+**Vista 1: panorámica del campo, con «Más detalles» desplegado**
+
+![Vista panorámica](Documentacion/capturas/02_panoramica.png)
+
+**Vista 2: detalle de los paneles y sus celdas**
+
+![Detalle del panel](Documentacion/capturas/03_detalle_panel.png)
+
+**Vista 3: recorrido entre las filas con joystick**
+
+![Recorrido entre filas](Documentacion/capturas/04_recorrido.png)
+
+**Modo Crepúsculo / Noche de Laboratorio**
+
+![Modo Crepúsculo](Documentacion/capturas/05_noche.png)
+
+**Fichas técnicas**
+
+![Fichas técnicas](Documentacion/capturas/06_fichas.png)
 
 ---
 
