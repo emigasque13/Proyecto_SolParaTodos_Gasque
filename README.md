@@ -189,5 +189,3 @@ SampleScene
 ## Créditos y licencias
 
 - Autor: Emiliano Gasque, Universidad Marista de Mérida.
-- Tipografía Barlow, licencia SIL OFL (`Assets/SolParaTodos/Fuentes/OFL.txt`).
-- El logo de la Universidad Marista de Mérida pertenece a la universidad.
